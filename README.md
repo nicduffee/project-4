@@ -39,3 +39,5 @@ Using the following questions as a guide, this project will also explore the fac
 ### 4. Visualizing the Data
 
 ### 5. Developing a Machine Learning Sales Forcast Model
+
+### 6. Presentation to Stakeholders
