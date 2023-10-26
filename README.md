@@ -35,7 +35,8 @@ Using the following questions as a guide, this project will also explore the fac
 - The dataset is imported and cleaned using the Pandas library, ready for exploration.
 
 ### 3. Exploring the Data
-- The Dataset is loaded into a PostGreSQL Database and queried to answer our questions
+- The Dataset is loaded into a PostGreSQL Database and queried to answer our questions.
+- Views are created for each answers to aid in quicker recall in the future.
 
 ### 4. Visualizing the Data
 - Tableau is used to create Visualizations based off our findings
