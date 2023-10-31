@@ -1,4 +1,4 @@
-# Wallmart Sales Review and Forecast
+# Walmart Sales Review and Forecast
 ![walmart-logo-banner-2mt5sis7wghasqjs](https://github.com/nicduffee/project-4/assets/91498217/d3669dbf-7fde-4b4a-af03-a2bca05f3b92)
 
 
@@ -28,7 +28,7 @@ Using the following questions as a guide, this project will also explore the fac
 ![process-flow](https://github.com/nicduffee/project-4/assets/91498217/83b8b5a5-6e5c-4b82-82f8-91722928a201)
 
 ### 1. Sourcing the Data
-- The Wallmart Sales dataset used in this project can be downloaded from: </br>
+- The Walmart Sales dataset used in this project can be downloaded from: </br>
    https://www.kaggle.com/datasets/rutuspatel/walmart-dataset-retail
 
 ### 2. Data Cleaning
