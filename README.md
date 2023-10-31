@@ -71,7 +71,8 @@ Data Exploration can be found in `Exploration/Walmart_Sales_SparkSQL_Colab.ipynb
 ### 4. Visualizing the Data
 - Tableau is used to create Visualizations based off our findings
 
-Our Tableau Public file can be found at: `https://public.tableau.com/app/profile/sara2016/viz/Walmart_Sales_Analysis_16986224620240/Story1?publish=yes`
+Local Tableau file: `Walmart_Sales_Analysis.twbx` or online at: </br> 
+`https://public.tableau.com/app/profile/sara2016/viz/Walmart_Sales_Analysis_16986224620240/Story1?publish=yes`
 
 Using the Data Exploration in `Exploration/Walmart_Sales_SparkSQL_Colab.ipynb` as a guide, our findings were then used to create a story in Tableau Public </br>
 
