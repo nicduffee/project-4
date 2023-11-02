@@ -105,4 +105,4 @@ We then determined a Random Forest Regression might be more appropriate as it wo
 ### 6. Presentation to Stakeholders
 - A powerpoint is created and the group presents our Process & findings to our peers
 
-Powerpoint can be found at `<insert powerpoint file here>`
+Powerpoint can be found at `Walmart_Sales_Presentation.pptx`
